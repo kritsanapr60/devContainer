@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "incubate-internship-2020": {
+      "hosting": {
+        "dev": [
+          "incubate-internship-2020"
+        ]
+      }
+    }
+  }
+}
